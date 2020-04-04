@@ -1,0 +1,340 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Chelsea</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="landing is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">fc Chelsea Football Club</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>เมนู</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">สโมสรฟุตบอลเชลซี</a></li>
+											<li><a href="generic.html">ข้อมูลทั่วไป</a></li>
+											<li><a href="elements.html">Elements</a></li>
+											<li><a href="#">Sign Up</a></li>
+											<li><a href="#">Log In</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+					<section id="banner">
+						<div class="inner">
+							<h2>Chelsea Football Club</h2>
+							<h3>สวัสดี<br />
+							ยินดีต้อนรับสู่<br />
+						  เชลซีสิงโตน้ำเงินคราม</h3>
+							<ul class="actions special">
+								<li><a href="#" class="button primary">Chelsea</a></li>
+							</ul>
+						</div>
+						<a href="#one" class="more scrolly">เชลซี</a>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<img src="images/50.png" width="60" height="60"><h2>ความเป็นมา<br />
+								สโมสรฟุตบอลเชลซี</h2><img src="images/50.png" width="60" height="60">
+								<p>สโมสรฟุตบอลเชลซี เป็นสโมสรฟุตบอลอาชีพที่ตั้งอยู่ในเขตฟูลัม ลอนดอน<br />
+									ซึ่งเล่นอยู่ในพรีเมียร์ลีก ลีกสูงสุดของฟุตบอลอังกฤษ<br />
+								สโมสรฟุตบอลเชลซีก่อตั้งขึ้นเมื่อวันที่ 10 มีนาคม ค.ศ. 1905 สโมสรได้เล่นอยู่บนลีกสูงสุดของประเทศเป็นส่วนใหญ่<br />
+								ในหน้าประวัติศาสตร์ของสโมสรสนามเหย้าของสโมสรคือสแตมฟอร์ดบริดจ์ มีความจุ 41,837 ที่นั่ง </p>
+							</header>
+							<ul class="icons major">
+						  	<li><span class="icon fas fa-check-square major style4"><span class="label">Lorem</span></span></li>
+								<li><span class="icon fa-gem  major style1"><span class="label">Lorem</span></span></li>
+								<li><span class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>
+								<li><span class="icon fas fa-check-square major style3"><span class="label">Lorem</span></span></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+								<h2>Stamford Bridge<br />
+								สแตมฟอร์ดบริดจ์</h2>
+								<p>สนามเหย้าของสโมสรฟุตบอลเชลซี เป็นสนามฟุตบอลของ สโมสรฟุตบอลเชลซี</p>
+								<ul class="icons major">
+									<li><span class="icon fas fa-futbol  fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-futbol  fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-futbol  fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-futbol  fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-futbol  fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-futbol  fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-futbol  fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-futbol  fa-spin"><span class="label">futball</span></span></li>
+								</ul>
+							</div>
+						</section>
+
+
+						<section class="spotlight">
+							<div class="image"><iframe width="560" height="315" src="https://www.youtube.com/embed/rEu4jpUr1wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe alt="" /></div><div class="content">
+                <h2>Stamford Bridge<br />
+								วีดีโอบรรยากาศสนามสแตมฟอร์ดบริดจ์</h2>
+                <p><font color="red">วีดีโอ Youtube จากช่อง Football dance</p></font>
+								<ul class="icons major">
+									<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								</ul>
+							</div>
+						</section>
+
+
+						 <section class="spotlight">
+							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+								<h2>UEFA Champions League 2011-2012<br />
+								ยูฟ่าแชมเปียนส์ลีก นัดชิงชนะเลิศ 2012</h2>
+								<p>เป็นนัดชิงชนะเลิศของการแข่งขันฟุตบอล ยูฟ่าแชมเปียนส์ลีก ฤดูกาล 2011–12<br />
+								เป็นการพบกันระหว่างสโมสรฟุตบอลเชลซี และสโมสรฟุตบอลบาเยิร์นมิวนิก</p>
+								ผลการแข่งขัน ปรากฏว่าทั้งคู่เสมอกันในเวลาแข่งปกติ 90 นาที<br />
+								แม้ต่อเวลาไปอีก 30 นาที ก็ยังเสมอกัน<br />
+								จึงมีการดวลจุดโทษกัน ปรากฏเชลซีบุกมาชนะไปด้วยผล 4-3 ประตู</p>
+								<ul class="icons major">
+									<li><span class="icon fas fa-heart fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-heart fa-spin"><span class="label">futball</span></span></li>
+								  <li><span class="icon fas fa-heart fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-heart fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-heart fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-heart fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-heart fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-heart fa-spin"><span class="label">futball</span></span></li>
+								</ul>
+							</div>
+						</section>
+
+						<section class="spotlight">
+						 <div class="image"><iframe width="560" height="315" src="https://www.youtube.com/embed/W96-rFVXvOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe alt="" /></div><div class="content">
+							 <h2>UEFA Champions League 2011-2012<br />
+							 วีดีโอการแข่งขัน ยูฟ่าแชมเปียนส์ลีก นัดชิงชนะเลิศ 2012</h2>
+							 <p><font color="red">วีดีโอ Youtube จากช่อง ไฮไลท์ฟุตบอล ในตํานาน</p></font>
+							 <ul class="icons major">
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+							 </ul>
+						 </div>
+						</section>
+
+						<section class="spotlight">
+							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+								<h2>พรีเมียร์ลีกอังกฤษ2016-2017<br />
+							  แชมป์พรีเมียร์ลีกสมัยที่ 5 ของ“เชลซี”</h2>
+								<p>อันโตนิโอ คอนเต้ มาปีแรกก็พา เชลซี ครองแชมป์ได้เลย</p>
+								<ul class="icons major">
+									<li><span class="icon far fa-lemon fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-lemon fa-spin"><span class="label">futball</span></span></li>
+								  <li><span class="icon fas fa-lemon fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-lemon fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-lemon fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-lemon fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-lemon fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-lemon fa-spin"><span class="label">futball</span></span></li>
+								</ul>
+							</div>
+						</section>
+
+						<section class="spotlight">
+						 <div class="image"><iframe width="560" height="315" src="https://www.youtube.com/embed/HIxCIxCQJ8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe alt="" /></div><div class="content">
+							 <h2>พรีเมียร์ลีกอังกฤษ2016-2017<br />
+							 วีดีโอการการฉลองแชมป์ของเชลซี</h2>
+							 <p><font color="red">วีดีโอ Youtube จากช่อง LM channel</p></font>
+							 <ul class="icons major">
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+								 <li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+							 </ul>
+						 </div>
+						</section>
+
+						<section class="spotlight">
+							<div class="image"><img src="images/pic07.jpg" alt="" /></div><div class="content">
+								<h2>Chelsea Football Club<br />
+								เชลซีสิงโตน้ำเงินคราม 2019-2020</h2>
+								<p>เชลซีในยุคของ แฟรงค์ แลมพาร์ด<br />
+								ฤดูกาล 2019-2020 เป็นฤดูกาลที่ 106 ของเชลซี และเป็นฤดูกาลที่ 31 ในระดับลีกสูงสุดของฟุตบอลอังกฤษ<br />
+								และเป็นฤดูกาลที่ 28 ติดต่อกันใน พรีเมียร์ลีก และเป็นปีที่ 114 ในการดำรงก่อตั้งสโมสรฟุตบอล</p>
+								<ul class="icons major">
+									<li><span class="icon fas fa-sun fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-sun fa-spin"><span class="label">futball</span></span></li>
+								  <li><span class="icon fas fa-sun fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-sun fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-sun fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-sun fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-sun fa-spin"><span class="label">futball</span></span></li>
+									<li><span class="icon fas fa-sun fa-spin"><span class="label">futball</span></span></li>
+								</ul>
+							</div>
+						</section>
+
+						<section class="spotlight">
+						 <div class="image"><iframe width="560" height="315" src="https://www.youtube.com/embed/1rkkIshbPo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe alt="" /></div><div class="content">
+							 <h2>Chelsea Football Club<br />
+							 วีดีโอ นักเตะ โค้ดและแผนการเล่นอย่างเป็นทางการ 2019-2020</h2>
+							 <p><font color="red">วีดีโอ Youtube จากช่อง PM</p></font>
+							 <ul class="icons major">
+								<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+ 								<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+ 								<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+ 								<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+ 								<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+ 								<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+ 								<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+ 								<li><span class="icon fas fa-gem fa-spin"><span class="label">futball</span></span></li>
+							 </ul>
+						 </div>
+						</section>
+					</section>
+
+				<!-- Three -->
+					<section id="three" class="wrapper style3 special">
+						<div class="inner">
+							<header class="major">
+								<h2><span class="icon fas fa-sun fa-spin"><span class="label">futball</span></span>รายชื่อนักเตะเชลซีในปัจจุบัน<span class="icon fas fa-sun fa-spin"><span class="label">futball</span></span></h2>
+								<p>รวมไปด้วย ผู้รักษาประตู กองหลัง กองกลาง กองหน้า โค้ชและทีมสต๊าฟโค้ช<br />
+								มีรายชื่อดังนี้</p>
+							</header>
+							<ul class="features">
+								<li class="icon fa-paper-plane">
+									<h3>ผู้รักษาประตู</h3>
+									<p>1.เกปา อาร์ริชาบาลาก้า เบอร์ 1<br />
+									   2.วิลลี่ กาบาเยโร่ เบอร์ 13<br />
+								     3.เจมี่คัมมิ่ง เบอร์ 31</p>
+								</li>
+								<li class="icon solid fa-check-square">
+									<h3>กองหลัง</h3>
+									<p>1.อันดตนิโอ รูดิเกอร์ เบอร์ 2<br />
+									   2.มากอส อลอนโซ่ เบอร์ 3<br />
+									   3.แอนเดรียส คริสเตนเซน เบอร์ 4<br />
+                     4.เซซาร์ อัชปิลิเกวต้า เบอร์ 28<br />
+										 5.เอเมอร์สัน พัลมิเอรี เบอร์ 33่<br />
+										 6.เคิ้ร์ท ซูม่า เบอร์ 15<br />
+										 7.รีซ เจมส์ เบอร์ 24<br />
+								     8.ฟิกาโย โทโมรี เบอร์ 29</p>
+								</li>
+								<li class="icon solid fa-futbol">
+									<h3>กองกลาง</h3>
+									<p>1.จอร์จินโญ่ เบอร์ 5 <br />
+									   2.เอ็นโกโล่ กองเต้ เบอร์ 7 <br />
+									   3.รอสส์ บาร์คลีย์ เบอร์ 8 <br />
+									   4.มาเตโอ โควาซิช เบอร์ 17 <br />
+									   5.รูเบ็น ลอฟดัส-ชีค เบอร์ 12 <br />
+									   6.มาร์โก ฟาน กิงเคล เบอร์ 18 <br />
+									   7.เมสัน เมาท์ เบอร์ 19 <br />
+									   8.บิลลี่ กิลมอร เบอร์ 47์</p>
+								</li>
+								<li class="icon solid fa-headphones-alt">
+									<h3>กองหน้า</h3>
+									<p>1.เปดดร เบอร์ 11 <br />
+									   2.คัลลัม ฮัดสัน-โอดอย เบอร์ 20<br />
+									   3.โอลิวิเยร์ ชิรูด์ เบอร์ 18<br />
+									   4.วิลเลียน เบอร์ 10<br />
+									   5.มิชีบัตซูอายี่ เบอร์ 23<br />
+									   6.คริสเตียน พูลิซิช เบอร์ 22<br />
+									   7.แทมี่ อับราฮัม เบอร์ 9</p>
+								</li>
+								<li class="icon fa-heart">
+									<h3>โค้ช</h3>
+									<p>1.แฟรงค์ แลมพาร์ด ผู้จัดการทีม<br />
+									   2.โจดี้ มอร์ริส ผู้จัดการทีม U18<br />
+									   3.โจ เอ็ดเวิร์ด ผู้จัดการทีมเยาวชน</p>
+								</li>
+								<li class="icon fa-flag">
+									<h3>ทีมสต๊าฟโค้ช</h3>
+									<p>1.คริส โจนส์ ผู้ช่วยโค้ช<br />
+									   2.เอ็ดดี้ นิวตั่น ผู้ช่วยโค้ช<br />
+									   3.เอ็นริเก้ ฮิลาริโอ้ โค้ชรักษาประตู<br />
+									   4.เจมส์ รัชลล์ โค้ชผู้รักษาประตู<br />
+									   5.แม็ตต์ เบอร์นี่ โค้ชฟิตเนส<br />
+									   6.วิลล์ ทุลเล็ตต์ โค้ชฟิตตเนส<br />
+									   7.เพตเตอร์ เช็ก ืี่ปรึกษาด้านเทคนิคและประสิทธิภาพของทีม<br />
+									   8.ด็อกเตอร์ ปาโก บิออสก้า หัวหน้าทีมแพทย์<br />
+									   9.คาร์โลคุดิซินี่ ผู้ผึกสอนนักเตะยืมตัว<br />
+									  10.สก็อตต์แม็คลาสัน หัวหน้าฝ่ายแมวมองระหว่างประเทศ</p>
+								</li>
+							</ul>
+						</div>
+						<img src="images/50.png" width="60" height="60"><img src="images/50.png" width="60" height="60"><img src="images/50.png" width="60" height="60"><img src="images/50.png" width="60" height="60"><img src="images/50.png" width="60" height="60">
+					</section>
+
+
+				<!-- CTA -->
+					<section id="cta" class="wrapper style4">
+						<div class="inner">
+							<header>
+								<h2></h2>
+								<h2>เชลซีสิงโตน้ำเงินคราม</h2>
+							</header>
+							<ul class="actions stacked">
+								<li><a href="#" class="button fit primary">Chelsea</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+							<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+						</ul>
+						<ul class="copyright">
+							<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
